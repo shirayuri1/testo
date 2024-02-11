@@ -1,0 +1,1 @@
+console.log("lo que se te de la gana")
